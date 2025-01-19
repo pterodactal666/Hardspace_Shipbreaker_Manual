@@ -1,0 +1,541 @@
+[
+  {
+	"name": "Victory",
+	"requires": "|LYNX Completion Points:75|",
+	"victory": true
+  },
+  {
+    "name": "Mackerel Light Cargo Tier 1",
+    "region": "Mackerel Light Cargo",
+    "category": ["Mackerel Light Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Light Cargo Tier 2",
+    "region": "Mackerel Light Cargo",
+    "category": ["Mackerel Light Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Light Cargo Tier 3",
+    "region": "Mackerel Light Cargo",
+    "category": ["Mackerel Light Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Light Cargo Tier 4",
+    "region": "Mackerel Light Cargo",
+    "category": ["Mackerel Light Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Light Cargo Tier 5",
+    "region": "Mackerel Light Cargo",
+    "category": ["Mackerel Light Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Station Hopper Tier 1",
+    "region": "Mackerel Station Hopper",
+    "category": ["Mackerel Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Station Hopper Tier 2",
+    "region": "Mackerel Station Hopper",
+    "category": ["Mackerel Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Station Hopper Tier 3",
+    "region": "Mackerel Station Hopper",
+    "category": ["Mackerel Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Station Hopper Tier 4",
+    "region": "Mackerel Station Hopper",
+    "category": ["Mackerel Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Station Hopper Tier 5",
+    "region": "Mackerel Station Hopper",
+    "category": ["Mackerel Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Heavy Cargo Tier 1",
+    "region": "Mackerel Heavy Cargo",
+    "category": ["Mackerel Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Heavy Cargo Tier 2",
+    "region": "Mackerel Heavy Cargo",
+    "category": ["Mackerel Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Heavy Cargo Tier 3",
+    "region": "Mackerel Heavy Cargo",
+    "category": ["Mackerel Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Heavy Cargo Tier 4",
+    "region": "Mackerel Heavy Cargo",
+    "category": ["Mackerel Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Heavy Cargo Tier 5",
+    "region": "Mackerel Heavy Cargo",
+    "category": ["Mackerel Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Exolab Tier 1",
+    "region": "Mackerel Exolab",
+    "category": ["Mackerel Exolab"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Exolab Tier 2",
+    "region": "Mackerel Exolab",
+    "category": ["Mackerel Exolab"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Exolab Tier 3",
+    "region": "Mackerel Exolab",
+    "category": ["Mackerel Exolab"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Exolab Tier 4",
+    "region": "Mackerel Exolab",
+    "category": ["Mackerel Exolab"],
+    "requires": []
+  },
+  {
+    "name": "Mackerel Exolab Tier 5",
+    "region": "Mackerel Exolab",
+    "category": ["Mackerel Exolab"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Nomad Cargo Hauler Tier 1",
+    "region": "Atlas Nomad Cargo Hauler",
+    "category": ["Atlas Nomad Cargo Hauler"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Nomad Cargo Hauler Tier 2",
+    "region": "Atlas Nomad Cargo Hauler",
+    "category": ["Atlas Nomad Cargo Hauler"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Nomad Cargo Hauler Tier 3",
+    "region": "Atlas Nomad Cargo Hauler",
+    "category": ["Atlas Nomad Cargo Hauler"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Nomad Cargo Hauler Tier 4",
+    "region": "Atlas Nomad Cargo Hauler",
+    "category": ["Atlas Nomad Cargo Hauler"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Nomad Cargo Hauler Tier 5",
+    "region": "Atlas Nomad Cargo Hauler",
+    "category": ["Atlas Nomad Cargo Hauler"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Scout Patrol Craft Tier 1",
+    "region": "Atlas Scout Patrol Craft",
+    "category": ["Atlas Scout Patrol Craft"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Scout Patrol Craft Tier 2",
+    "region": "Atlas Scout Patrol Craft",
+    "category": ["Atlas Scout Patrol Craft"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Scout Patrol Craft Tier 3",
+    "region": "Atlas Scout Patrol Craft",
+    "category": ["Atlas Scout Patrol Craft"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Scout Patrol Craft Tier 4",
+    "region": "Atlas Scout Patrol Craft",
+    "category": ["Atlas Scout Patrol Craft"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Scout Patrol Craft Tier 5",
+    "region": "Atlas Scout Patrol Craft",
+    "category": ["Atlas Scout Patrol Craft"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Roustabout Tug Tier 1",
+    "region": "Atlas Roustabout Tug",
+    "category": ["Atlas Roustabout Tug"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Roustabout Tug Tier 2",
+    "region": "Atlas Roustabout Tug",
+    "category": ["Atlas Roustabout Tug"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Roustabout Tug Tier 3",
+    "region": "Atlas Roustabout Tug",
+    "category": ["Atlas Roustabout Tug"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Roustabout Tug Tier 4",
+    "region": "Atlas Roustabout Tug",
+    "category": ["Atlas Roustabout Tug"],
+    "requires": []
+  },
+  {
+    "name": "Atlas Roustabout Tug Tier 5",
+    "region": "Atlas Roustabout Tug",
+    "category": ["Atlas Roustabout Tug"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 1",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 2",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 3",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 4",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 5",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 6",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 7",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 8",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Heavy Cargo Tier 9",
+    "region": "Javelin Heavy Cargo",
+    "category": ["Javelin Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 1",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 2",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 3",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 4",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 5",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 6",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 7",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 8",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Javelin Tanker Tier 9",
+    "region": "Javelin Tanker",
+    "category": ["Javelin Tanker"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 1",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 2",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 3",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 4",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 5",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 6",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 7",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 8",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Station Hopper Tier 9",
+    "region": "Gecko Station Hopper",
+    "category": ["Gecko Station Hopper"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 1",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 2",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 3",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 4",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 5",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 6",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 7",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 8",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Heavy Cargo Tier 9",
+    "region": "Gecko Heavy Cargo",
+    "category": ["Gecko Heavy Cargo"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 1",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 2",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 3",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 4",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 5",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 6",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 7",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 8",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Salvage Runner Tier 9",
+    "region": "Gecko Salvage Runner",
+    "category": ["Gecko Salvage Runner"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 1",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 2",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 3",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 4",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 5",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 6",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 7",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 8",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  },
+  {
+    "name": "Gecko Stargazer Tier 9",
+    "region": "Gecko Stargazer",
+    "category": ["Gecko Stargazer"],
+    "requires": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "count": 1,
+    "name": "Mackerel Light Cargo",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mackerel Station Hopper",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mackerel Heavy Cargo",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mackerel Exolab",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Atlas Nomad Cargo Hauler",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Atlas Scout Patrol Craft",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Atlas Roustabout Tug",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Javelin Heavy Cargo",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Javelin Tanker",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gecko Station Hopper",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gecko Heavy Cargo",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gecko Salvage Runner",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gecko Stargazer",
+    "category": [
+      "Ships"
+    ],
+    "progression": true
+  },
+  {
+	"count": 100,
+	"name": "LYNX Completion Points",
+	"category": [
+	  "Completion Points"
+	],
+	 "progression": true
+  }
+]

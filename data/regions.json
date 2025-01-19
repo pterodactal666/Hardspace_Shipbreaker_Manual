@@ -1,0 +1,54 @@
+{
+  "Mackerel Light Cargo": {
+    "connects_to": [],
+    "requires": "|Mackerel Light Cargo|"
+  },
+  "Mackerel Station Hopper": {
+    "connects_to": [],
+    "requires": "|Mackerel Station Hopper|"
+  },
+  "Mackerel Heavy Cargo": {
+    "connects_to": [],
+    "requires": "|Mackerel Heavy Cargo|"
+  },
+  "Mackerel Exolab": {
+    "connects_to": [],
+    "requires": "|Mackerel Exolab|"
+  },
+  "Atlas Nomad Cargo Hauler": {
+    "connects_to": [],
+    "requires": "|Atlas Nomad Cargo Hauler|"
+  },
+  "Atlas Scout Patrol Craft": {
+    "connects_to": [],
+    "requires": "|Atlas Scout Patrol Craft|"
+  },
+  "Atlas Roustabout Tug": {
+    "connects_to": [],
+    "requires": "|Atlas Roustabout Tug|"
+  },
+  "Javelin Heavy Cargo": {
+    "connects_to": [],
+    "requires": "|Javelin Heavy Cargo|"
+  },
+  "Javelin Tanker": {
+    "connects_to": [],
+    "requires": "|Javelin Tanker|"
+  },
+  "Gecko Station Hopper": {
+    "connects_to": [],
+    "requires": "|Gecko Station Hopper|"
+  },
+  "Gecko Heavy Cargo": {
+    "connects_to": [],
+    "requires": "|Gecko Heavy Cargo|"
+  },
+  "Gecko Salvage Runner": {
+    "connects_to": [],
+    "requires": "|Gecko Salvage Runner|"
+  },
+  "Gecko Stargazer": {
+    "connects_to": [],
+    "requires": "|Gecko Stargazer|"
+  }
+}
